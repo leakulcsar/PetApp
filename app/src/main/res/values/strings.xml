@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PetApp</string>
+    <string name="breed">Breed</string>
+    <string name="mixed_breed">Mixed breed</string>
+    <string name="pure_breed">Purebred</string>
+
+    <string name="size">Size</string>
+    <string name="gender">Gender</string>
+    <string name="status">Status</string>
+    <string name="distance">Distance</string>
+    <string name="no_distance">No distance available</string>
+    <string name="empty_screen">Nothing to show</string>
+    <string name="home_title">PetFinder</string>
+    <string name="error_text">Something went wrong. Please try again.</string>
+    <string name="retry_text">Retry</string>
+
+</resources>

@@ -33,8 +33,8 @@ The data provides the implementation details for the contracts defined by the do
 
 The feature package contains everything related to UI
 
-### App screenshot
-<img src="https://github.com/user-attachments/assets/207c4ca8-b9ff-42a2-9962-02d537576280" width="320">
+### App screenshots
+<img src="https://github.com/user-attachments/assets/45feca02-3643-426c-bf5a-aec9794e05da" width="320">
 
-<img src="https://github.com/user-attachments/assets/1bb07f4e-4063-41eb-b111-24cc44494dd0" width="320">
+<img src="https://github.com/user-attachments/assets/7cfc9e2f-aea5-440d-b435-3398dd93852f" width="320">
 
